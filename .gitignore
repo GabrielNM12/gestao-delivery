@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+=======
+# Compiled class file
+.class
+>>>>>>> b7cb5af282ba8141bbf3b39a6517985d8ab8eda9
 
 # IDE
 .idea/
